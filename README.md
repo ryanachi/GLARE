@@ -1,6 +1,6 @@
-# infilling-adversarial
+# GLARE
 
-Generating adversarial textual examples with infilling language models
+Generating adversarial textual examples with infilling language models.
 
 ## Installation
 
